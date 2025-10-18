@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Infrastructure Diagram](media/architecture-diagram.png) <!-- TODO: Add a high-level architecture diagram in the media folder -->
+![Infrastructure Diagram](media/final_infra.png) <!-- TODO: Add a high-level architecture diagram in the media folder -->
 
 [![GitHub stars](https://img.shields.io/github/stars/BenLazregAhmed/AWS-Terraform-enterprise-scale-architecture?style=for-the-badge)](https://github.com/BenLazregAhmed/AWS-Terraform-enterprise-scale-architecture/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/BenLazregAhmed/AWS-Terraform-enterprise-scale-architecture?style=for-the-badge)](https://github.com/BenLazregAhmed/AWS-Terraform-enterprise-scale-architecture/network)
